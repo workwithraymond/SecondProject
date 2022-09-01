@@ -1,2 +1,2 @@
-# SecondProject
-My second project 
+# Second Project
+My second project. Working with teams to develop a project. 
